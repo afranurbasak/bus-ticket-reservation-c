@@ -1,0 +1,8 @@
+*.exe
+*.o
+*.obj
+*.out
+Makefile.win
+*.layout
+Thumbs.db
+desktop.ini
